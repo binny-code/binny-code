@@ -1,4 +1,4 @@
-## Hi# 💫 About Me:
+## yoo
 I’m a data-driven professional with a strong interest in fintech, specializing in analytics, machine learning, and secure data systems. <br>I enjoy building intelligent, reliable solutions that support financial decision-making, risk management, and scalable digital products, while continuously learning emerging technologies in the financial ecosystem.
 
 
